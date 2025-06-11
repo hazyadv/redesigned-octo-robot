@@ -60,3 +60,14 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots/**/*.png
 fastlane/test_output
+# Ignore unnecessary Unity files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+Logs/
+UserSettings/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
